@@ -111,6 +111,9 @@ rm -rf %{buildroot}
 %{_datadir}/javazi
 
 %changelog
+* Sun Jul 17 2011 Mike Adams <shalkie@gooseproject.org> - 2010l-1
+- Initial rebuild for GoOSe Linux 6
+
 * Mon Aug 30 2010 Petr Machata <pmachata@redhat.com> - 2010l-1
 - Upstream 2010l:
   - Change Cairo's 2010 reversion to DST from the midnight between
